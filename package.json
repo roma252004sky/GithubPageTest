@@ -2,7 +2,7 @@
   "name": "github-page-test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://roma252004sky.github.io/react-gh-pages",
+  "homepage": "https://roma252004sky.github.io/GithubPageTest/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
