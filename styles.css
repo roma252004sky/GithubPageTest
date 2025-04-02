@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Roboto';
-    src: url(/GithubPageTest/Roboto-VariableFont_wdth,wght.ttf);
+    src: url(/Roboto-VariableFont_wdth,wght.ttf);
 }
 .test{
     font-family: Roboto, serif;
