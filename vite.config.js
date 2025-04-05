@@ -6,14 +6,5 @@ export default defineConfig({
   plugins: [react()],
   homepage: "https://roma252004sky.github.io/GithubPageTest/",
   base: "https://roma252004sky.github.io/GithubPageTest/",
-  build: {
-    minify: 'esbuild',
-    esbuild: {
-      minifyWhitespace: true,
-      minifyIdentifiers: true,
-      minifySyntax: true,
-      legalComments: 'none'
-    }
-  }
 })
 
